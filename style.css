@@ -1,0 +1,109 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #fff;
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-family: SFProDisplay-regular, Helvetica, Arial,sans-serif;
+}
+
+
+form
+
+{
+    display: inline-block;
+    width: 25rem;
+    height: 19rem;
+    margin-top: 4rem;
+    float: left;
+    position: absolute;
+    text-align: center;
+    margin-left: 49rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px,
+    0 8px 16px;
+    box-sizing: border-box;
+}
+#mail
+{
+  display: inline-block;
+  font-size: 14px;
+  padding: 6px 0;
+  width: 373px;
+    height: 48px;
+    box-sizing: border-box;
+   border-radius: 6px;
+   margin-top: 1rem;
+
+}
+
+#userpassword
+{
+    text-align: center;
+       display: inline-block;
+    padding: 6px 0;
+    width: 379px;
+    height:48px;
+    box-sizing: border-box;
+    color: #1877f2;
+    border-radius: 6px;
+    margin-top:2rem ;
+
+
+}
+#connexion
+{
+    color: white;
+    background-color: #1877f2;
+    font-size: 20px;
+    border-radius: 6px;
+    width: 379px;
+    height: 48px;
+    margin-top: 28px;
+    font-family: Arial,Helvetica,sans-serif;
+    line-height: 48px;
+
+
+
+}
+#creer {
+    color: white;
+    background-color: #42b72a;
+    font-size: 20px;
+    border-radius: 6px;
+    width:224px;
+    height: 39px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 23px
+;
+}
+
+
+
+
+#footer{
+    margin-left: 174px;
+    margin-top: 31rem;
+    text-align: left;
+}
+#container
+{
+    display: inline-block;
+    float: right;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+
+    margin-right:43rem;
+    margin-top: 11rem;
+}
+#page
+{
+    margin-left:783px;
+    margin-top:127px ;
+}
